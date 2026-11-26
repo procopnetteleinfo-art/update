@@ -1,9 +1,9 @@
 {
   "app": "SGF Mobile",
-  "versao": "1.0.5",
-  "versionCode": 6,
+  "versao": "1.0.6",
+  "versionCode": 7,
   "data": "26/11/2026",
   "obrigatoria": false,
   "apk": "https://github.com/procopnetteleinfo-art/update/releases/download/v1.0.5/SGFMobile.apk",
-  "mensagem": "Versão oficial 1.0.5 lançada."
+  "mensagem": "Versão oficial 1.0.6 lançada."
 }
