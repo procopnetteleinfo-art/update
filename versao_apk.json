@@ -1,10 +1,9 @@
 {
-    "app": "SGF Mobile",
-    "versao": "1.0.2",
-    "versionCode": 3,
-    "data": "24/11/2026",
-    "obrigatoria": false,
-    "apk": "https://www.dropbox.com/scl/fi/h6tul38z6b908mv266ou7/SGFMobile.apk?rlkey=47235dwh7oa0bqmlantcc70j4&st=vw1grhtr&e=1&dl=1",
-    "mensagem": "Vers\u00e3o oficial 1.0.2 lan\u00e7ada."
-
+  "app": "SGF Mobile",
+  "versao": "1.0.5",
+  "versionCode": 6,
+  "data": "26/11/2026",
+  "obrigatoria": false,
+  "apk": "https://github.com",
+  "mensagem": "Versão oficial 1.0.5 lançada."
 }
